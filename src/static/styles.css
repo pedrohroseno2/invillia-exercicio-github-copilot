@@ -96,6 +96,17 @@ section h3 {
   font-weight: bold;
 }
 
+.participants-list {
+  margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: disc;
+  color: #333;
+} 
+
+.participants-list li {
+  margin-bottom: 10px;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
